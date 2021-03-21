@@ -1,0 +1,175 @@
+/* Author: Rodrigo Orellana */
+body * {
+    margin: 0px;
+    padding: 0px;
+    
+   }
+#wrapper{
+    width: 970px;
+    margin: 0x auto; 
+}
+#header{
+    margin: 0x auto; 
+    background: linear-gradient(#306da2, #5081ac);
+}
+#header div{
+    background-color: white;
+}
+#header div img{
+    display: inline-block;
+    margin-bottom: -15px;
+}
+#header div h1{
+    display: inline-block;
+    vertical-align: top;
+    color:black;
+    margin-top: 20px;
+}
+#header div h1 span{
+    color:blue;
+}
+#header h1{
+    color: white;
+    padding: 5px;
+}
+#main_content{
+    background: linear-gradient(#eaeaea, #ffffff);
+}
+#main_content_left{
+    display: inline-block;
+    
+}
+#main_content_left h3{
+    font-size: 1rem;
+}
+.main_content_leftp {
+    width: 150px;
+}
+#main_content_left button{
+    display: block;
+}
+#main_content_left div{
+    display: inline-block;
+    margin-left: -122px;
+    color: white;
+}
+.blueButton{
+    background-color: #4883b3;
+    border-radius: 5px;
+    color: white;
+    margin: 10px;
+    margin-left: 8px;
+    padding: 3px  15px;
+}
+.orangeButton{
+    background-color: #ed9220;
+    border-radius: 5px;
+    color: white;
+    margin: 8px;
+    padding: 3px;
+}
+.ninjaDiv{
+    margin-top: 30px;
+    vertical-align: top;
+}
+.ninjaDiv p{
+    width: 95px;
+    text-align: center;
+}
+.lightBlueButton{
+    background-color: #51cbde;
+    border-radius: 5px;
+    margin-left: 8px;
+}
+.ninja{
+    margin-left: 20px;
+    width: 50px;
+    margin-bottom: 5px;
+}
+#main_content_right{
+    display: inline-block;
+    vertical-align: top;
+}
+#middle_header_left{
+    display: inline-block;
+    margin: 10px 5px 10px 1px;
+}
+#middle_header_left img{
+    width:20px;
+    margin: 0px 5px 5px 5px;
+}
+#middle_header_left span{
+    margin: 0px 0px;
+    vertical-align: top;
+}
+#middle_header_right{
+    display: inline-block;
+    margin: 10px 5px 10px 430px;
+    font-size: 0.6rem;
+}
+#middle_header_right img{
+    width:20px;
+    display: inline-block;
+    margin: 5px 5px 5px 5px;
+}
+#middle_header_right div{
+    display: inline-block;
+}
+#middle_body {
+    border-top: 4px solid #cacaca;
+    margin:3px;
+}
+.middleh3 {
+    color: #51cbde;
+    font-size: 1.5rem;
+}
+#middle_body h2{
+    font-size: 1.1rem;
+    color:#5285b1;
+}
+.middle_body_p_span1 {
+    color:#5285b1;
+}
+
+.middle_body_p_span2 {
+    font-weight: bold;
+}
+#middle_body ul{
+    width: 660px;
+    padding:10px;
+}
+#middle_body ul li{
+    padding:2px;
+    margin-left: 15px;
+}
+.client_server{
+    width: 200px;
+    margin-left:245px;
+}
+#middle_body ol{
+    width: 660px;
+    padding:10px;
+}
+#middle_body ol li{
+    padding:2px;
+    margin-left: 15px;
+}
+#middle_footer{
+    border-top: 4px solid #0f8ce2;
+    border-right: 4px solid #0f8ce2;
+    border-left: 4px solid #0f8ce2;
+}
+#middle_footer img{
+    width:90px;
+    padding:3px;
+    margin:3px;
+}
+#middle_footer div{
+    width:560px;
+    padding:3px;
+    margin:3px;
+    display: inline-block;
+}
+
+
+
